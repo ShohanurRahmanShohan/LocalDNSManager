@@ -1,7 +1,7 @@
 # HostsManager
 
 **HostsManager** is a simple and user-friendly Windows tool designed to help you easily manage your system's `hosts` file. With this tool, you can add, delete, and manage IP-to-domain mappings without the hassle of manually editing the `hosts` file.
-
+ [Download HostsManager](https://github.com/ShohanurRahmanShohan/LocalDNSManager/releases/download/exe/LocalDns.exe)
 ## Features:
 - Add new IP-to-domain mappings to the `hosts` file.
 - Remove existing entries with a simple click.
