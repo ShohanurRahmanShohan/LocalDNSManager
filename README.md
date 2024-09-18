@@ -10,7 +10,8 @@
 - Requires administrator privileges for full functionality.
 
 ## How to Use:
-1. **Download** the `.exe` file from the [Releases](#).
+1. **Download** the `.exe` file from the link below:
+   - [Download HostsManager](https://github.com/ShohanurRahmanShohan/LocalDNSManager/releases/download/exe/LocalDns.exe)
 2. **Run** the application as an Administrator (required to modify the `hosts` file).
    - Right-click the `.exe` file and select **"Run as administrator"**.
 3. Use the interface to add or remove IP-to-domain mappings:
